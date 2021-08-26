@@ -1,0 +1,67 @@
+body {
+  /* background-image: url(backgroundpic.jpg);
+   */
+}
+#sidebar {
+  width: 30%;
+  height: 600px;
+  background: greenyellow;
+  display: inline-block;
+  text-align: center;
+}
+#header {
+  width: 70%;
+  height: 600px;
+  float: left;
+  background: linear-gradient(rgba(255, 123, 123, 0.616), rgba(61, 60, 60, 0));
+  /* background-image: url(img23.jpg); */
+  display: inline-block;
+  color: wheat;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  image-resolution: 400px;
+}
+.myform {
+  padding-top: 30px;
+  margin: 10px;
+}
+.formgroup label {
+  display: block;
+}
+.formgroup input {
+  padding: 10px;
+}
+#E {
+  border-left: 3px blue solid;
+}
+#Q {
+  border-left: 3px blue solid;
+}
+#form2 {
+  text-align: center;
+  background: linear-gradient(rgb(250, 177, 177), rgb(205, 250, 205));
+  padding: 10%;
+}
+#sign {
+  width: 200px;
+  background-color: rgb(80, 252, 180);
+}
+.form3 {
+  text-align: center;
+  padding: 10%;
+  background: linear-gradient(rgb(250, 177, 177), rgb(205, 250, 205));
+}
+.form input {
+  width: 300px;
+  border: 1px solid red;
+  padding: 5px;
+  border-radius: 8px;
+}
+.form label {
+  display: block;
+}
+#value {
+  width: 200px;
+  background-color: rgb(71, 234, 255);
+}
